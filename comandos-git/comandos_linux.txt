@@ -1,1 +1,2 @@
 pwd: muestra la carpeta en la que se está trabajando
+cd: change directory

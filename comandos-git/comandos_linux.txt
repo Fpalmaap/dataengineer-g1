@@ -1,3 +1,4 @@
 pwd: muestra la carpeta en la que se está trabajando
 cd: change directory
 ls: Lista los archivos y directorios
+mkdir: crea un directorio nuevo

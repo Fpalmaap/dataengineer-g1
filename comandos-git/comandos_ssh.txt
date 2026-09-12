@@ -11,3 +11,5 @@ ssh-add c:/Users/Marcell/.ssh/id_ed25519
 ### Opcional: (Si es la primera vez que usan un token ssh)
 ### Si en caso aparece un error de que no reconoce SSH TOKEN
 ssh -T git@github.com
+
+nuevo comando antes del pull request 
